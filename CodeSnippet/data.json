@@ -1,0 +1,35 @@
+{
+  "输入转换为整数列表": {
+    "prefix": "list",
+    "body": [
+      "list(map(int, input().split(' ')))"
+    ],
+    "description": "输入转换为整数列表"
+  },
+  "输入转换为整数map": {
+    "prefix": "map",
+    "body": [
+      "map(int, input().split(' '))"
+    ],
+    "description": "输入转换为整数map"
+  },
+  "设置递归最大深度": {
+    "prefix": "recurs",
+    "body": [
+      "import sys",
+      "sys.setrecursionlimit(1000)"
+    ],
+    "description": "手动设置递归最大深度"
+  },
+  "读取多组输入": {
+    "prefix": "while",
+    "body": [
+      "while True:",
+      "    try:",
+      "        ",
+      "    except:",
+      "        break"
+    ],
+    "description": "利用while true读入多组输入"
+  }
+}

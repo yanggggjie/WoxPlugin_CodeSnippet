@@ -1,0 +1,13 @@
+{
+    "ID": "2f4e384e-86ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword": "cp",
+    "Name": "CodeSnippet",
+    "Description": "copy your code snippet at anywhere",
+    "Author": "yanggggjie",
+    "Version": "1.0",
+    "Language": "python",
+    "Website": "https://github.com/yanggggjie/WoxPlugin_CodeSnippet.git",
+    "IcoPath": "Images\\paste.png",
+    "ExecuteFileName": "main.py",
+    "Disabled": false
+}
